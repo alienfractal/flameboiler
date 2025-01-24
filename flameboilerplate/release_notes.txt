@@ -1,9 +1,0 @@
-{
-        "language": "en-GB",
-        "text": "British English release notes text",
-        "description": "Latest update for the prototype ", // Optional for App Store review submission
-        "keywords": "Puzzle game, flutter", // Optional for App Store review submission
-        "promotional_text": "Promotional text", // Optional for App Store review submission
-        "marketing_url": "https://coolorburn.codemagic.app", // Optional for App Store review submission
-        "support_url": "https://alienretro.dev" // Optional for App Store review submission
-    }
