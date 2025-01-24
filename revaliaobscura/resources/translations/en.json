@@ -1,0 +1,21 @@
+{
+    "game": {
+      "title": "Cool or Burn",
+      "subtitles": { "sub_title1": "Cool", "sub_title2": "Burn" },
+      "start_message": "Welcome to Cool or Burn!",
+      "pause_message": "Game paused. Tap to continue.",
+      "over_message": "Game over! Try again?"
+    },
+    "menu": {
+      "play_button": "Play",
+      "settings_button": "Settings",
+      "exit_button": "Exit"
+    },
+    "settings": {
+      "title": "Settings",
+      "language": "Language",
+      "sound": "Sound",
+      "music": "Music"
+    }
+  }
+  

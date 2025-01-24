@@ -1,0 +1,21 @@
+flutter clean
+rm -rf build
+rm -rf ~/.pub-cache
+
+flutter pub get
+
+ C:\Users\lien\AppData\Local\Pub\Cache\bin\fluttergen   #to update resources. 
+#Windows build
+ flutter run -d windows -t .\lib\main.dart #runwindows
+#web build
+ flutter build web --release
+flutter build web --release --base-href="https://lienthealien.itch.io/pick-or-burn/"
+flutter build web --release --base-href="/"
+
+flutter pub get
+C:\Users\lien\AppData\Local\Pub\Cache\bin\fluttergen 
+flutter run -d chrome  --target lib/main.dart 
+flutter clean  
+
+ 
+ 

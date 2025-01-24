@@ -1,0 +1,41 @@
+{
+    "categories": [
+      {
+        "title": "Player Actions",
+        "definition": "Events directly initiated by player's interaction with the game.",
+        "focus": "Capturing and responding to inputs from the player within the game environment.",
+        "example": "\"Player Collects Item\" - Triggered when a player picks up an item."
+      },
+      {
+        "title": "Game Responses",
+        "definition": "The system's reactions to player actions or other game events.",
+        "focus": "Providing feedback or consequences for player actions or specific game conditions.",
+        "example": "\"Game Over\" - Occurs when the player's health reaches zero, ending the game."
+      },
+      {
+        "title": "Entities",
+        "definition": "Objects in the game that have their own properties, behaviors, and states.",
+        "focus": "The characteristics and interactions of in-game elements.",
+        "example": "\"Item Unlocks Door\" - An item changes the state of a door entity from locked to unlocked."
+      },
+      {
+        "title": "Information Display",
+        "definition": "Events related to presenting information to the player via the UI.",
+        "focus": "Communicating game states, objectives, and relevant information effectively.",
+        "example": "\"Score Update\" - Reflects new scores on the game UI after achieving certain milestones."
+      },
+      {
+        "title": "Game Progression",
+        "definition": "Events that advance the game's narrative or level structure.",
+        "focus": "Structuring the sequence of events for guiding player experience.",
+        "example": "\"Level Completed\" - Signifies the completion of a level's objectives, allowing progression."
+      },
+      {
+        "title": "Game Logic",
+        "definition": "The core mechanics and rules governing the game.",
+        "focus": "Implementing the foundational principles for game behavior and interactions.",
+        "example": "\"Calculate the shortest path?\" - Uses algorithms to determine navigable paths for AI or puzzles."
+      }
+    ]
+  }
+  
