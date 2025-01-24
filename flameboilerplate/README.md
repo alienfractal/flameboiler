@@ -1,6 +1,6 @@
-# coolorburn
+# flutter boiler plate
 
-A new Flutter project.
+A new Flutter Flame project.
 
 ## Getting Started
 
